@@ -28,3 +28,6 @@ Webpage with Gsap and Scroll Magic
 ## Usage
 
 1. Run `npm install` or `yarn install`.<br />
+
+
+<p align="center">Design by Wrong Akram.</p>
