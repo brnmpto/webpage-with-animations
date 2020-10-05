@@ -3,7 +3,7 @@ Webpage with Gsap and Scroll Magic
 </h1>
 
 <p align="center">Webpage with animations for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://jolly-cori-7cdab4.netlify.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
