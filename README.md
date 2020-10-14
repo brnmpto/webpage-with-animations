@@ -23,7 +23,7 @@ Webpage with Gsap and Scroll Magic
 - [x] CSS: Sass
 - [x] JavaScript
 - [x] Gsap
-- [x] ScrollMagic
+- [x] ScrollMagic.
 
 ## Usage
 
